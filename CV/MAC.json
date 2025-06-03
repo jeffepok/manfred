@@ -98,6 +98,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Java",
+          "type": "technology"
+        },
+        {
           "name": "JavaScript",
           "type": "technology"
         },
