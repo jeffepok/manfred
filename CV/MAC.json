@@ -106,6 +106,10 @@
           "type": "technology"
         },
         {
+          "name": "Golang",
+          "type": "technology"
+        },
+        {
           "name": "Java",
           "type": "technology"
         },
