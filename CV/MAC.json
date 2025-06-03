@@ -104,6 +104,10 @@
         {
           "name": "Python",
           "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
