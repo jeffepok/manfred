@@ -98,6 +98,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Django",
+          "type": "technology"
+        },
+        {
           "name": "Docker",
           "type": "technology"
         },
