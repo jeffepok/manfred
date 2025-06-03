@@ -98,6 +98,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
           "name": "Java",
           "type": "technology"
         },
