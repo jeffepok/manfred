@@ -78,7 +78,7 @@
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Bsc. Computer Science",
-        "startDate": "2019-07-01",
+        "startDate": "2015-09-01",
         "institution": {
           "name": "Kwame Nkrumah University of Science and Technology"
         },
@@ -96,6 +96,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Backend Developer",
         "Full-stack Developer"
