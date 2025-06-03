@@ -72,6 +72,18 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Bsc. Computer Science",
+        "startDate": "2019-07-01",
+        "institution": {
+          "name": "Kwame Nkrumah University of Science and Technology"
+        },
+        "finishDate": "2019-07-01"
+      }
     ]
   },
   "careerPreferences": {
